@@ -1,7 +1,15 @@
-print ("##########################################")
-print ("#####     Send Email By Python       #####")
-print ("##########################################\n")
-import smtplib
+
+طباعة ( "" + عمود )
+طباعة ( "__ __ _______ __" + co )
+طباعة ( "| \ / | __ \ \ / /" + co )
+طباعة ( "| \ / | | __) \ \ / /" + l )
+طباعة ( "| | \ / | | _ / \ \ / /" + h )
+طباعة ( "| | | | | \ \ /" + عمود )
+طباعة ( "| _ | | _ | _ | \ _ \ \ / \ n \ n \ n " + c )
+طباعة ( "______________________________" )
+print ( "My Chanel: قيس الحموي" )
+طباعة ( "______________________________" )
+print ( "My Insta: asta al0hmawi" )import smtplib
 sender = input(" Enter your Email : ")
 password = input("Enter the Password : ")
 receiver = input("Enter your Receiver : ")
